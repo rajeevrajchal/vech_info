@@ -13,8 +13,10 @@
     "format": "prettier --write \"**/*.{ts,tsx,md}\""
   },
   "devDependencies": {
+    "daisyui": "^2.19.0",
     "eslint-config-custom": "*",
     "prettier": "latest",
+    "tailwindcss": "^3.1.6",
     "turbo": "latest"
   },
   "engines": {
